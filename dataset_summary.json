@@ -1,0 +1,22 @@
+{
+    "status": "Completed",
+    "min_per_class": 100,
+    "warning": "Automated labeling is approximate. For scientific-grade accuracy, dataset labels should be reviewed by an agricultural expert.",
+    "details": {
+        "wheat": {
+            "A": 100,
+            "B": 100,
+            "C": 100
+        },
+        "rice": {
+            "A": 100,
+            "B": 100,
+            "C": 100
+        },
+        "corn": {
+            "A": 100,
+            "B": 100,
+            "C": 100
+        }
+    }
+}
